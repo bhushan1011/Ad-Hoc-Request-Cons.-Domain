@@ -2,7 +2,7 @@
 
 ![Consumer Goods SQL Project (1)](https://github.com/bhushan1011/Ad-Hoc-Request-Cons.-Domain/assets/158809648/83913e67-77f1-4b32-8c69-baca48070b02)
 
-[Link to Presentation]()
+[Link to Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7183750567050039296/)
 
 Domain : Consumer Goods
 
